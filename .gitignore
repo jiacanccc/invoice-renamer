@@ -3,7 +3,6 @@
 
 # Claude Code 配置
 .claude/
-CLAUDE.md
 
 # Python
 __pycache__/
@@ -11,3 +10,6 @@ __pycache__/
 
 # 临时文件
 ~$*
+
+# 测试数据（包含发票原件，不应上传）
+测试数据/
